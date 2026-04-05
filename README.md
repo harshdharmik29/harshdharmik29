@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
+<h3 align="center">🚀 Engineering Student | Tech Explorer | Future Developer</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Harsh%20Code&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Hardware%20%7C%20Software%20Projects&descAlignY=58&descSize=20" />
 </p>
